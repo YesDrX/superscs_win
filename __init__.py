@@ -1,0 +1,1 @@
+from superscs_win.superscs import solve
